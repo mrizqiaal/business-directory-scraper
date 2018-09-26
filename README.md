@@ -25,5 +25,5 @@ Depedencies:
     $ cd PhilippinesBusinessList
     $ python3 quickstart.py
 
-## Run screenshots
+## Run screenshot
 <img src="https://github.com/mrizqiaal/business-directory-scraper/blob/master/studio3t.png?raw=true" width = "800" height = "400" align=center />   
